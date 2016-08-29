@@ -7,3 +7,7 @@
 - [ ] Add other necessary fields and buttons.
 - [ ] You do not need to include "Add phone number" button. It is optional.
 - [ ] Improve styles if you wish.
+
+### Nice to have but not necessary
+
+- [ ] Use **Firebase** to store contact data.
